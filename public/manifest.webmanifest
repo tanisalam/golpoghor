@@ -1,0 +1,19 @@
+{
+    "name": "গল্পঘর",
+    "short_name": "গল্পঘর",
+    "description": "যেখানে গল্প বেঁচে থাকে",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#0D1117",
+    "theme_color": "#0D1117",
+    "lang": "bn",
+    "icons": [
+      {
+        "src": "/icon.svg",
+        "sizes": "any",
+        "type": "image/svg+xml",
+        "purpose": "any"
+      }
+    ]
+  }
